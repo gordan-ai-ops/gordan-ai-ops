@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**gordan-ai-ops/gordan-ai-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello, I’m Gordan — *The AI Whisperer*
 
-Here are some ideas to get you started:
+> “Others use AI. I direct it. Command it. Wield it.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design intelligent systems, modular prompt flows, and high-impact micro-agents that simplify complexity and accelerate results.  
+With a focus on practical application and precision, I specialize in:
+
+- 🧠 Prompt Engineering & AI Workflows  
+- ⚙️ Intelligent Agent Design  
+- 📊 SEO Audits & Programmatic Content Structuring  
+- 🔐 Lightweight Recon & Automation for Digital Security  
+- 🧰 Freelance Intelligence & Digital Optimization
+
+---
+
+### 🔗 Featured Projects *(Coming Soon)*
+
+- 📄 Smart Summarizer (PDF → Key Points)
+- 🧩 PromptPack Generator
+- 📊 AI-Powered SEO Auditor
+- 🧠 AI Prompt Library
+- 🌐 Personal Portfolio & Service Hub
+
+---
+
+📫 **Contact:** gordan.ai.ops@gmail.com  
+📍 **Location:** Serbia – Open for Remote Work  
+🔎 *AI Whisperer. Systems Architect. Precision-Crafted Intelligence.*
