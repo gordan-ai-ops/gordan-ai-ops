@@ -1,29 +1,21 @@
+# 👋 Welcome — I’m Gordan
 
-### 👋 Hello, I’m Gordan — *The AI Whisperer*
+**AI Whisperer · Prompt Architect · Modular Intelligence Designer**  
+I don’t use AI. I direct it. Channel it. Wield it.
 
-> “Others use AI. I direct it. Command it. Wield it.”
+🔍 Specializing in:
+- Modular AI systems and intelligent automation
+- Prompt engineering and applied LLM logic
+- SEO optimization powered by AI workflows
+- Python-based tools for automation, parsing, and agent control
+- Ethical AI deployment and real-world testing
 
-I design intelligent systems, modular prompt flows, and high-impact micro-agents that simplify complexity and accelerate results.  
-With a focus on practical application and precision, I specialize in:
+🛠️ Tools & Skills:
+`Python` · `Prompt Engineering` · `Automation` · `AI Workflows`  
+`OpenAI APIs` · `LLM Agents` · `System Architecture` · `SEO Intelligence`  
 
-- 🧠 Prompt Engineering & AI Workflows  
-- ⚙️ Intelligent Agent Design  
-- 📊 SEO Audits & Programmatic Content Structuring  
-- 🔐 Lightweight Recon & Automation for Digital Security  
-- 🧰 Freelance Intelligence & Digital Optimization
+🚀 Building real-world micro-agents and proof-of-concept tools  
+🌍 Syncing knowledge across B2B demos and freelance field use
 
----
-
-### 🔗 Featured Projects *(Coming Soon)*
-
-- 📄 Smart Summarizer (PDF → Key Points)
-- 🧩 PromptPack Generator
-- 📊 AI-Powered SEO Auditor
-- 🧠 AI Prompt Library
-- 🌐 Personal Portfolio & Service Hub
-
----
-
-📫 **Contact:** gordan.ai.ops@gmail.com  
-📍 **Location:** Serbia – Open for Remote Work  
-🔎 *AI Whisperer. Systems Architect. Precision-Crafted Intelligence.*
+📫 Reach out via [LinkedIn](https://linkedin.com/in/gordan-ai)  
+🧠 Projects will appear here as part of live deployments
