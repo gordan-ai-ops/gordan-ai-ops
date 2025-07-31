@@ -36,7 +36,7 @@ You can now hire me directly on Upwork:
 
 
 - 🔗 [Prompt Engineering Offer](https://www.upwork.com/services/product/development-it-gpt-prompt-engineer-custom-ai-prompts-for-business-automation-1950832719288601436?ref=project_share)  
-- 🤖 [Chatbot Automation Offer](https://www.upwork.com/services/product/development-it-ai-chatbot-automation-and-prompt-scripting-1950834734447130624?ref=project_share)
-
+  
+[Chatbot Automation Offer](https://www.upwork.com/services/product/development-it-gpt-chatbot-automation-1950832769860191234)
 
 🧠 Precision-crafted. Built with OpenAI, Python & Whisperer 
