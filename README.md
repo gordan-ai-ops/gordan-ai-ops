@@ -19,4 +19,5 @@ I don’t use AI. I direct it. Channel it. Wield it.
 
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/gordan-ai)
+
 🧠 Projects will appear here as part of live deployments
