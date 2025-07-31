@@ -17,7 +17,5 @@ I don’t use AI. I direct it. Channel it. Wield it.
 🚀 Building real-world micro-agents and proof-of-concept tools  
 🌍 Syncing knowledge across B2B demos and freelance field use
 
-📫 Reach out via [LinkedIn](https://linkedin.com/in/gordan-ai)  
+LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/gordan-ai)
 🧠 Projects will appear here as part of live deployments
-📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/gordan-ai)
