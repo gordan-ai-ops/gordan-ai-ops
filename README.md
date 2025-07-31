@@ -21,3 +21,22 @@ I don’t use AI. I direct it. Channel it. Wield it.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/gordan-ai)
 
 🧠 Projects will appear here as part of live deployments
+
+## 💼 My Upwork Services
+
+Looking to integrate AI into your workflows or enhance GPT outputs?
+
+You can now hire me directly on Upwork:
+
+- 🎯 **Prompt Engineering**  
+  Design of smart, logic-driven prompts for ChatGPT, GPT-4, Claude, Jasper, and more.
+
+- 🤖 **AI Chatbot Development**  
+  Custom chatbot workflows using prompt chaining and intelligent logic
+
+
+- 🔗 [Prompt Engineering Offer](https://www.upwork.com/services/product/development-it-gpt-prompt-engineer-custom-ai-prompts-for-business-automation-1950832719288601436?ref=project_share)  
+- 🤖 [Chatbot Automation Offer](https://www.upwork.com/services/product/development-it-ai-chatbot-automation-and-prompt-scripting-1950834734447130624?ref=project_share)
+
+
+🧠 Precision-crafted. Built with OpenAI, Python & Whisperer 
